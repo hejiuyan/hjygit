@@ -12,6 +12,7 @@ public class hjy {
 		System.out.println("的名字科技的");
 		System.out.println("正在输出u");
 		//受到收到
+		System.out.println("tttt");
 	}
 
 }
