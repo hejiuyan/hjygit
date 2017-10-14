@@ -6,6 +6,7 @@ public class hjy {
 		// TODO Auto-generated method stub
 		System.out.println("这是一个测试类");
 		System.out.println("这是一个测试类2");
+		System.out.println("aaaaaa");
 	}
 
 }
