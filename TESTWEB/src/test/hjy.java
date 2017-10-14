@@ -8,6 +8,7 @@ public class hjy {
 		System.out.println("这是一个测试类2");
 		System.out.println("aaaaaa");
 		System.out.println("15:53:51");
+		//湖南电子耳机
 	}
 
 }
