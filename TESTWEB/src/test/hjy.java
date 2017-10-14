@@ -11,6 +11,7 @@ public class hjy {
 		//湖南电子耳机
 		System.out.println("的名字科技的");
 		System.out.println("正在输出u");
+		//受到收到
 	}
 
 }
